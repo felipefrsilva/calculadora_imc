@@ -1,2 +1,2 @@
-# calculadora_imc
-Como calcular o seu IMC através da calculadora.
+# Calculadora IMC
+Consulte o seu IMC através calculadora.
